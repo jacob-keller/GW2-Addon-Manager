@@ -20,7 +20,7 @@ Currently implementing French, Chinese, and Korean localization with the help of
 Head on over to the [wiki](https://github.com/fmmmlee/GW2-Addon-Manager/wiki) for installation instructions!
 
 ### Currently Supported Add-Ons:
-A list of compatible addons is in the <a href="https://github.com/gw2-addon-loader/Approved-Addons">**Approved-Addons**</a> repository, including arcDPS, d912pxy, and others.
+A list of compatible addons is in the <a href="https://github.com/jacob-keller/GW2-Addon-Manager-Approved-Addons">**Approved-Addons**</a> repository, including arcDPS, d912pxy, and others.
 
 ### Wiki/Troubleshooting
 More information on a number of other topics including troubleshooting can be found on the [wiki](https://github.com/fmmmlee/GW2-Addon-Manager/wiki).
