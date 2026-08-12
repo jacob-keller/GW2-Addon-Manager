@@ -12,8 +12,8 @@ namespace GW2_Addon_Manager
     class ApprovedList
     {
         private const string AddonFolder = "resources\\addons";
-        //Approved-addons repository
-        private const string RepoUrl = "https://api.github.com/repositories/206052865";
+        //jacob-keller/GW2-Addon-Manager-Approved-addons repository
+        private const string RepoUrl = "https://api.github.com/repositories/1331788706";
 
         private readonly IConfigurationManager _configManager;
 
